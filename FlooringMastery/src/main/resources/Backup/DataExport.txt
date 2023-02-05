@@ -1,0 +1,5 @@
+OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total,OrderDate
+2,Doctor Who,WA,9.25,Wood,243.00,5.15,4.75,1251.45,1154.25,216.51,2622.21,12-26-2022
+3,Albert Einstein,KY,6.00,Carpet,217.00,2.25,2.10,488.25,455.70,56.64,1000.59,12-26-2022
+5,Monica,WA,9.25,Wood,900,5.15,4.75,4635.00,4275.00,824.18,9734.18,12-26-2022
+8,Bill,WA,9.25,Carpet,700,2.25,2.10,1575.00,1470.00,281.66,3326.66,12-26-2022

@@ -1,0 +1,4 @@
+OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total
+5,Sara,WA,9.25,Wood,900,5.15,4.75,4635.00,4275.00,824.18,9734.18
+7,Brian,TX,4.45,Wood,780,5.15,4.75,4017.00,3705.00,343.63,8065.63
+80,@Steve,TX,4.45,Carpet,900,2.25,2.10,2025.00,1890.00,174.22,4089.22

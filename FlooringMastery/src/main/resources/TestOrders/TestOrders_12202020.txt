@@ -1,0 +1,3 @@
+OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total
+71,Steve,TX,4.45,Carpet,900,2.25,2.10,2025.00,1890.00,174.22,4089.22
+79,Steve,TX,4.45,Carpet,900,2.25,2.10,2025.00,1890.00,174.22,4089.22
